@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Annotation profile for RightSayaUserMicroservice" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-configuration-processor/4.0.8/spring-boot-configuration-processor-4.0.8.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.46/lombok-1.18.46.jar" />
+        </processorPath>
+        <module name="functional-programs" />
+        <module name="kafka-consumer-next-application" />
+        <module name="saga-orchestrator-application" />
+        <module name="kafka-producer-application" />
+        <module name="user-microservice" />
+        <module name="cart-application" />
+        <module name="platform-testing-application" />
+        <module name="eureka-server-application" />
+        <module name="payment-application" />
+        <module name="order-application" />
+        <module name="api-gateway" />
+        <module name="product-catalogue" />
+        <module name="kafka-consumer-one" />
+        <module name="universal-microservice-concepts-implementation" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api-gateway" options="-parameters" />
+      <module name="cart-application" options="-parameters" />
+      <module name="eureka-server-application" options="-parameters" />
+      <module name="functional-programs" options="-parameters" />
+      <module name="kafka-consumer-next-application" options="-parameters" />
+      <module name="kafka-consumer-one" options="-parameters" />
+      <module name="kafka-producer-application" options="-parameters" />
+      <module name="order-application" options="-parameters" />
+      <module name="payment-application" options="-parameters" />
+      <module name="platform-testing-application" options="-parameters" />
+      <module name="product-catalogue" options="-parameters" />
+      <module name="saga-orchestrator-application" options="-parameters" />
+      <module name="universal-microservice-concepts-implementation" options="-parameters" />
+      <module name="user-microservice" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: RightSaya_API_Gateway

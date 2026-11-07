@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/EscortShip_Cart_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/EscortShip_Eureka_Server_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/White_Heaven_API_Gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/White_Heaven_User_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/White_Heaven_Product_Service/pom.xml" />
+        <option value="$PROJECT_DIR$/EscortShip_Payment_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/White_Heaven_Fucntional_Programs/pom.xml" />
+        <option value="$PROJECT_DIR$/EscortShip_Order_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/White_Heaven_Universal_Microservice_Patterns_Impl_Appn/pom.xml" />
+        <option value="$PROJECT_DIR$/EscortShip_Kafka_Consumer_One_O_One_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/EscortShip_Kafka_Producer_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/EscortShip_Saga_Orchestrator_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/EscortShip_Platform_Testing_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/EscortShip_Kafka_Consumer_One_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Escort_Ship_API_Gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/Escort_Ship_Cart_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Escort_Ship_Eureka_Server_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Escort_Ship_Fucntional_Programs/pom.xml" />
+        <option value="$PROJECT_DIR$/Escort_Ship_Kafka_Consumer_One_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Escort_Ship_Kafka_Consumer_One_O_One_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Escort_Ship_Kafka_Producer_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Escort_Ship_Order_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Escort_Ship_Payment_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Escort_Ship_Platform_Testing_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Escort_Ship_Product_Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Escort_Ship_Saga_Orchestrator_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Escort_Ship_Universal_Microservice_Patterns_Impl_Appn/pom.xml" />
+        <option value="$PROJECT_DIR$/Escort_Ship_User_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/True_Saya_Cart_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/True_Saya_API_Gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/True_Saya_Eureka_Server_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/True_Saya_Fucntional_Programs/pom.xml" />
+        <option value="$PROJECT_DIR$/True_Saya_Kafka_Consumer_One_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/True_Saya_Kafka_Consumer_One_O_One_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/True_Saya_Kafka_Producer_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/True_Saya_Order_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/True_Saya_Payment_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/True_Saya_Platform_Testing_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/True_Saya_Product_Service/pom.xml" />
+        <option value="$PROJECT_DIR$/True_Saya_Saga_Orchestrator_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/True_Saya_Universal_Microservice_Patterns_Impl_Appn/pom.xml" />
+        <option value="$PROJECT_DIR$/True_Saya_User_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Right_Saya_API_Gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/Right_Saya_Cart_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Right_Saya_Eureka_Server_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Right_Saya_Fucntional_Programs/pom.xml" />
+        <option value="$PROJECT_DIR$/Right_Saya_Kafka_Consumer_One_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Right_Saya_Kafka_Consumer_One_O_One_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Right_Saya_Kafka_Producer_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Right_Saya_Microservices_Testing_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Right_Saya_Order_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Right_Saya_Payment_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Right_Saya_Product_Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Right_Saya_Saga_Orchestrator_Microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Right_Saya_Universal_Microservice_Patterns_Impl_Appn/pom.xml" />
+        <option value="$PROJECT_DIR$/Right_Saya_User_Microservice/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_26" default="true" project-jdk-name="26" project-jdk-type="JavaSDK" />
+</project>
